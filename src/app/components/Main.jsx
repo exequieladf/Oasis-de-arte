@@ -1,6 +1,6 @@
 import React from "react";
 
-const Main = ({heading, message}) => {
+const Main = ({ heading, message }) => {
   return (
     <div className="flex items-center justify-center h-screen mb-12 bg-fixed bg-center bg-cover custom-img">
       {/* Overlay */}
